@@ -1,0 +1,2 @@
+export NODE=<PATH_TO_YOUR_NODE>
+export NPM=<PATH_TO_YOUR_NPM>
