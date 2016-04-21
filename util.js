@@ -13,7 +13,7 @@ exports.getDegrees = function (x, y) {
 }
 
 exports.spheroDegrees = function(degree) {
-  if (sdegree < 90) {
+  if (degree < 90) {
     var sdegree = 90 -degree
   } else {
     var sdegree = 450 -degree
